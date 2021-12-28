@@ -6,4 +6,4 @@
 + I think AI is facinating but I haven't found the moment to learn anything about it yet, maybe in the future.
 
 ## 🌱 I’m currently learning ...
-+ PHP, Dart/Flutter, C#, Unity, Java
++ Spring!
